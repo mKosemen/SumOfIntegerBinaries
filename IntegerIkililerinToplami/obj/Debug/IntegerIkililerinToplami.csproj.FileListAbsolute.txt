@@ -1,0 +1,11 @@
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\bin\Debug\IntegerIkililerinToplami.exe.config
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\bin\Debug\IntegerIkililerinToplami.exe
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\bin\Debug\IntegerIkililerinToplami.pdb
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.Form1.resources
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.Properties.Resources.resources
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.exe
+C:\Users\casper\Desktop\BilgeAdamEğitim\03_Kendi Çalışmalarım\12_Northwind\IntegerIkililerinToplami\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.pdb
